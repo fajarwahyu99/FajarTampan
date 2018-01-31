@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kamus Fajar</string>
+
+    <string name="navigation_drawer_open">Buka</string>
+    <string name="navigation_drawer_close">Tutup</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="english_indonesia">English - Indonesia</string>
+    <string name="indonesia_english">Indonesia - English</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Kosong</string>
+
+    <string name="app_first_run">first_run</string>
+    <string name="details">Detail</string>
+    <string name="creator">Fajar Nugraha Wahyu</string>
+    <string name="explanation">Penjelasan</string>
+</resources>
